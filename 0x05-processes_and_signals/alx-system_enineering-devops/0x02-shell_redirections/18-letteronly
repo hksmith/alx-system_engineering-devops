@@ -1,0 +1,2 @@
+#!/bin/bash
+egreo ^[[:alpha:]] /etc/ssh/sshd_config
